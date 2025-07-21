@@ -1,0 +1,84 @@
+Request URL
+https://seguro.sempararempresas.com.br/SemParar/PeriodoPersonalizado/Index_Grid
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+45.60.17.233:443
+Referrer Policy
+strict-origin-when-cross-origin
+cache-control
+private
+content-encoding
+gzip
+content-type
+application/json; charset=utf-8
+date
+Sat, 28 Jun 2025 16:58:56 GMT
+server
+Microsoft-IIS/10.0
+server-timing
+dtSInfo;desc="0", dtRpid;desc="-420316369", dtTao;desc="1"
+strict-transport-security
+max-age=31536000; includeSubDomains; preload
+timing-allow-origin
+https://seguro.sempararempresas.com.br
+x-aspnet-version
+4.0.30319
+x-aspnetmvc-version
+4.0
+x-cdn
+Imperva
+x-iinfo
+16-13162562-13177326 PNYN RT(1751129720058 213366) q(0 0 0 -1) r(38 38) U24
+x-powered-by
+ASP.NET
+:authority
+seguro.sempararempresas.com.br
+:method
+POST
+:path
+/SemParar/PeriodoPersonalizado/Index_Grid
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-length
+59
+content-type
+application/x-www-form-urlencoded; charset=UTF-8
+cookie
+_spe=61f3871a2c0d4ef5b4deed7ad50183ea; _fbp=fb.2.1742904464040.59554312326630740; _hjSessionUser_3144475=eyJpZCI6Ijg5ZWIwODIyLTU2ZmItNWViYS05YTA0LTViZTdkYzA3ZjYwMCIsImNyZWF0ZWQiOjE3MjI5NTAyMDIxNzcsImV4aXN0aW5nIjp0cnVlfQ==; hubspotutk=4a6c9434daa712359418d78407a9b5b3; _vwo_uuid_v2=D42DA0940CCF7398600E38721067CBEBB|3484e32fd28592be5f367ad71f3df3c3; nlbi_2419040=Y+hMaFPYkAbaHGBYA/8aHQAAAABzVRuWQNe+zg07Gln2F9Az; visid_incap_2419040=Rf423mmuTnOyKLinWUt5+nceYGgAAAAAQUIPAAAAAADtMaoJtMcBxplEVdSs4Au0; incap_ses_1617_2419040=SuiDaMcTRXUzYGFFR71wFnceYGgAAAAAsiY+2BRhPgFwcXxkx715JQ==; rxVisitor=1751129722047IJMB784G2HBP8MHAJ1K7DSVJQHEKHVNC; dtSa=-; _gcl_au=1.1.1661567948.1751129723; _hjSession_3144475=eyJpZCI6IjkwMWFmZGNhLWRlMGMtNDRiZi05MmJmLTYwMWRkZmU3ZDViYyIsImMiOjE3NTExMjk3MjI4MjcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; _gid=GA1.3.1611230530.1751129723; _ga=GA1.1.827382024.1722950202; _clck=1fq450s%7C2%7Cfx5%7C0%7C1910; _uetsid=ae7fbdb0544011f0be0b1dea358d1996; _uetvid=1f2d27b053f611ef90f131a112fb81ec; _clsk=1kmk6l7%7C1751129724168%7C1%7C1%7Cy.clarity.ms%2Fcollect; cto_bundle=UtduSV9pM2UwWnRXS01nSktVeWdZcmpRWE5ia3JwemxpRHJGVERSQlR3V25Nc05ib1duMEVUc29waEpWNDRZZ08yUEtnakNzVWtzZzhqQkglMkZyTjVHMUdoeURnQ2oxNk5wRDRLR0RWZnlIcTRBQzQyNGN3RGlPb3U5cUVhcGlNc0pLbiUyRmVBM3NmYWZ5NDdQNVNIWXNOZVhWV1prWGElMkJnYWZZZmdnaDElMkJBUGxvOTVPTSUzRA; __hstc=205819212.4a6c9434daa712359418d78407a9b5b3.1747919182518.1750455749648.1751129725108.6; __hssrc=1; __hssc=205819212.1.1751129725108; dtPC=-30606$329722044_292h-vKTHOEVRWBDRAVQSMGVHGLDKCBKAAFDMW-0e0; rxvt=1751131527613|1751129722048; ASP.NET_SessionId=rbpzf3bghcnwlu04aanpbdpk; urlRetorno=urlRetorno=https://www.sempararempresas.com.br/; FORMS_AUTH=4EC6CF57BDB6CE5795D75625BD415D81B98CFDCBF5EE657945977A2291D5B788F764056EE1A9A4292AD7725C72BADCB58542FE268A5A922C4AE687D4EA6A984A43EE8717B095D7A51E283B59EBAC9B9E29B36924; dtCookie=v_4_srv_11_sn_GBSJDSDN1K85Q7NM8SB21ASOGNIL0DD7_perc_100000_ol_0_mul_1_app-3Afe4e9381e760ec3b_0_app-3A2e4d2e3d0cb5462c_0; LBAffinity=1000865802.20480.0000; visid_incap_2422172=gI/jMXoST3C4H9UdpQUHAn4eYGgAAAAAQUIPAAAAAAAX1p+3h1CqkWjVvGSUmQDk; nlbi_2422172=p5bfKIAFmzgEoV7s/oPclAAAAAD0IWXViiWj7gPBrnPu1acE; incap_ses_1617_2422172=dSmVCUK2cSVNZWFFR71wFoAeYGgAAAAA8tZ8h1LFX0qF3gQJtqPLXg==; _ga_DTT1HB4T0V=GS2.1.s1751129722$o11$g0$t1751129730$j52$l0$h0
+origin
+https://seguro.sempararempresas.com.br
+priority
+u=1, i
+referer
+https://seguro.sempararempresas.com.br/SemParar/PeriodoPersonalizado/Index
+sec-ch-ua
+"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+x-dtpc
+11$329907788_396h49vKTHOEVRWBDRAVQSMGVHGLDKCBKAAFDMW-0e0
+x-dtreferer
+https://seguro.sempararempresas.com.br/Default.aspx?handle=ecdc2a36-72f1-4fb5-923b-4a7866d60048
+x-kl-kes-ajax-request
+Ajax_Request
+x-requested-with
+XMLHttpRequest

@@ -1,0 +1,217 @@
+{
+    "Data": [
+        {
+            "$id": "1",
+            "IdItemFatura": 234612729784,
+            "Data": "2025-06-25T01:12:35",
+            "Veiculo": "RUP4H82",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP280, KM20+000, LESTE, BARUERI",
+            "Valor": 3.8,
+            "Permanencia": null
+        },
+        {
+            "$id": "2",
+            "IdItemFatura": 234612782044,
+            "Data": "2025-06-25T02:08:01",
+            "Veiculo": "RTM9F13",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP021, KM19+460, SUL, OSASCO",
+            "Valor": 3.2,
+            "Permanencia": null
+        },
+        {
+            "$id": "3",
+            "IdItemFatura": 234612798420,
+            "Data": "2025-06-25T02:18:06",
+            "Veiculo": "RVC0J70",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP021, KM19+460, SUL, OSASCO",
+            "Valor": 6.4,
+            "Permanencia": null
+        },
+        {
+            "$id": "4",
+            "IdItemFatura": 234612852229,
+            "Data": "2025-06-25T02:55:38",
+            "Veiculo": "RVC0J58",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP021, KM14+290, OESTE, OSASCO",
+            "Valor": 6.4,
+            "Permanencia": null
+        },
+        {
+            "$id": "5",
+            "IdItemFatura": 234612983966,
+            "Data": "2025-06-25T04:26:15",
+            "Veiculo": "RUQ9D16",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP021, KM14+290, OESTE, OSASCO",
+            "Valor": 3.2,
+            "Permanencia": null
+        },
+        {
+            "$id": "6",
+            "IdItemFatura": 234613003845,
+            "Data": "2025-06-25T04:29:33",
+            "Veiculo": "RTO9B84",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP280, KM20+000, LESTE, BARUERI",
+            "Valor": 3.8,
+            "Permanencia": null
+        },
+        {
+            "$id": "7",
+            "IdItemFatura": 234613116227,
+            "Data": "2025-06-25T05:14:25",
+            "Veiculo": "RTO9B84",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP021, KM00+360, NORTE, SÃO PAULO",
+            "Valor": 3.2,
+            "Permanencia": null
+        },
+        {
+            "$id": "8",
+            "IdItemFatura": 234613247097,
+            "Data": "2025-06-25T05:59:15",
+            "Veiculo": "SRR5B49",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "XEREM KM 102 NORTE",
+            "Valor": 29.0,
+            "Permanencia": null
+        },
+        {
+            "$id": "9",
+            "IdItemFatura": 234613206645,
+            "Data": "2025-06-25T06:07:59",
+            "Veiculo": "RVC0J85",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP021, KM14+290, OESTE, OSASCO",
+            "Valor": 6.4,
+            "Permanencia": null
+        },
+        {
+            "$id": "10",
+            "IdItemFatura": 234613269470,
+            "Data": "2025-06-25T06:45:32",
+            "Veiculo": "TAN6I62",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "BR493, KM112+900, SUL, ITAGUAÍ",
+            "Valor": 9.25,
+            "Permanencia": null
+        },
+        {
+            "$id": "11",
+            "IdItemFatura": 234613441674,
+            "Data": "2025-06-25T06:54:08",
+            "Veiculo": "SRR5B49",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "AREAL KM 45,5 NORTE",
+            "Valor": 29.0,
+            "Permanencia": null
+        },
+        {
+            "$id": "12",
+            "IdItemFatura": 234613299998,
+            "Data": "2025-06-25T06:58:12",
+            "Veiculo": "RUP2B50",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP330, KM26+495, NORTE, SÃO PAULO",
+            "Valor": 26.0,
+            "Permanencia": null
+        },
+        {
+            "$id": "13",
+            "IdItemFatura": 234613369280,
+            "Data": "2025-06-25T07:13:56",
+            "Veiculo": "RTM9F13",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP021, KM06+790, OESTE, SÃO PAULO",
+            "Valor": 3.2,
+            "Permanencia": null
+        },
+        {
+            "$id": "14",
+            "IdItemFatura": 234613350224,
+            "Data": "2025-06-25T07:17:07",
+            "Veiculo": "RTM9F13",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP330, KM26+495, NORTE, SÃO PAULO",
+            "Valor": 13.0,
+            "Permanencia": null
+        },
+        {
+            "$id": "15",
+            "IdItemFatura": 234652278875,
+            "Data": "2025-06-25T07:21:19",
+            "Veiculo": "SRI3J62",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "XEREM KM 102 NORTE",
+            "Valor": 29.0,
+            "Permanencia": null
+        },
+        {
+            "$id": "16",
+            "IdItemFatura": 234613352455,
+            "Data": "2025-06-25T07:28:38",
+            "Veiculo": "TAN6H99",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP280, KM18+000, OESTE, OSASCO",
+            "Valor": 3.2,
+            "Permanencia": null
+        },
+        {
+            "$id": "17",
+            "IdItemFatura": 234613692781,
+            "Data": "2025-06-25T07:35:16",
+            "Veiculo": "SRR5B49",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "JUIZ DE FORA KM 816,7 NORTE",
+            "Valor": 29.0,
+            "Permanencia": null
+        },
+        {
+            "$id": "18",
+            "IdItemFatura": 234613383882,
+            "Data": "2025-06-25T07:36:43",
+            "Veiculo": "TAN6H99",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP021, KM06+790, OESTE, SÃO PAULO",
+            "Valor": 3.2,
+            "Permanencia": null
+        },
+        {
+            "$id": "19",
+            "IdItemFatura": 234613400062,
+            "Data": "2025-06-25T07:40:17",
+            "Veiculo": "TAN6H99",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP330, KM26+495, NORTE, SÃO PAULO",
+            "Valor": 13.0,
+            "Permanencia": null
+        },
+        {
+            "$id": "20",
+            "IdItemFatura": 234613418987,
+            "Data": "2025-06-25T07:40:23",
+            "Veiculo": "TAO3J94",
+            "TipoLancamento": "Pedágio",
+            "Descricao": "SP348, KM39+047, NORTE, FRANCO DA ROCHA",
+            "Valor": 13.0,
+            "Permanencia": null
+        }
+    ],
+    "Total": 391,
+    "AggregateResults": [
+        {
+            "Value": 236.25,
+            "Member": "Valor",
+            "FormattedValue": 236.25,
+            "ItemCount": 0,
+            "Caption": null,
+            "FunctionName": "Sum_Valor",
+            "AggregateMethodName": "Sum"
+        }
+    ],
+    "Errors": null
+}
